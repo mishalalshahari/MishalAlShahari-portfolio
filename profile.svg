@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280">
+  <rect width="280" height="280" fill="#e9e4da"/>
+  <circle cx="140" cy="108" r="52" fill="#8b8fa3"/>
+  <path d="M42 280c0-54 44-92 98-92s98 38 98 92z" fill="#8b8fa3"/>
+  <text x="140" y="262" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" letter-spacing="2" fill="#3a3f4e">YOUR PHOTO HERE</text>
+</svg>
